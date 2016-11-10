@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:8
 
 # Install apt repos
 RUN curl -sL https://deb.nodesource.com/setup_7.x | bash -
